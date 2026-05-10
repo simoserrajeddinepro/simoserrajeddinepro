@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,45:0fa37f,100:2d6cdf&height=220&section=header&text=Mohammed%20Sarraj%20Eddine&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=D%C3%A9veloppeur%20Full-Stack%20%C2%B7%20AI%20Engineering%20%C2%B7%20SaaS%20Builder&descSize=16&descAlignY=58&descColor=ffffff&animation=fadeIn" alt="Mohammed Sarraj Eddine header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,45:0fa37f,100:2d6cdf&height=220&section=header&text=Mohammed%20Sarraj%20Eddine&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=D%C3%A9veloppeur%20Full-Stack%20%C2%B7%20AI%20Engineering%20%C2%B7%20Automation&descSize=16&descAlignY=58&descColor=ffffff&animation=fadeIn" alt="Mohammed Sarraj Eddine header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=0FA37F&center=true&vCenter=true&width=780&height=42&lines=D%C3%A9veloppeur+Full-Stack+orient%C3%A9+AI+Engineering;Full-Stack+Developer+%7C+AI+Engineering;FastAPI+%7C+React+%7C+Django+%7C+Spring+Boot+%7C+PostgreSQL;RAG+%7C+LLM+Orchestration+%7C+OCR+%7C+WebSockets;Based+in+Rabat%2C+Morocco" alt="Typing introduction" />
 
@@ -59,7 +59,7 @@
 | Period | Role | Company/Context | Description |
 | :--- | :--- | :--- | :--- |
 | **2025 - Present** | Full-Stack & AI Engineering Intern | Rabat Zaer Medical Lab (Projet PFF) | Developed a complete WhatsApp AI Assistant for laboratories using FastAPI, React, PostgreSQL, pgvector, and OCR workflows. |
-| **2025 - 2025** | AI Integrator | Learning IT Consulting | Built AI assistants, business chatbots, and model API integrations for analysis and decision support. |
+| **2025 - 2026** | AI Integrator | Learning IT Consulting | Built AI assistants, business chatbots, and model API integrations for analysis and decision support. |
 | **2023 - 2025** | Logistics Data Specialist | Booking-Container | Automated logistics data collection, structured workflows, and built Power BI reporting dashboards. |
 | **2018 - 2022** | Sales & Technical Support | IT Store | Managed customer consulting, hardware support, and CRM tracking. |
 
@@ -157,7 +157,7 @@ fn main() {
 | :--- | :--- |
 | Arabic | Native |
 | French | Intermediate |
-| English | Intermediate |
+| English | Advanced Technical |
 
 ## 💬 Let's Connect
 
@@ -178,5 +178,5 @@ fn main() {
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Build%20practical%20software.%20Integrate%20AI%20with%20purpose.&fontSize=22&fontAlignY=75" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4&height=120&section=footer&text=Build%20practical.%20Integrate%20AI%20with%20purpose.&fontSize=24&fontAlignY=75" width="100%"/>
 </div>
